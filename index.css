@@ -1,0 +1,30 @@
+body {
+    color:cornsilk;
+    background-color: rgb(133, 20, 240);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a{
+    color: cornsilk;
+    text-decoration: none;
+}
+
+
+img {
+    width: 150px;
+    height: 150px;
+    border: 6px;
+}
+
+
+.center {
+    text-align: center;
+
+}
